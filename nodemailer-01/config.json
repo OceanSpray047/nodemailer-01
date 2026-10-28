@@ -1,0 +1,21 @@
+{
+  "smtp": {
+    "host": "smtp.office365.com",
+    "port": 587,
+    "secure": false,
+    "user": "m.aayan@op.iitg.ac.in",
+    "pass": ""
+  },
+  "senderName": "Family Pet Care",
+  "fromEmail": "m.aayan@op.iitg.ac.in",
+  "replyTo": "",
+  "subjects": [
+    "Part-Time Pet Care & Dog Walking Inquiry - #NAME#",
+    "Inquiry regarding Pet Sitter assistance - #NAME#",
+    "Local Pet Care & Walking Opportunity - #NAME#"
+  ],
+  "deliveryMode": "both",
+  "delayMs": 3000,
+  "timezone": "America/Los_Angeles",
+  "trackingBaseUrl": ""
+}

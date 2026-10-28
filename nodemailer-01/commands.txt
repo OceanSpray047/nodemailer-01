@@ -1,0 +1,41 @@
+Full Date Grabber = SILENTCODERSFULLDATE
+e.g Date and Time of location
+Time in 24hours  = SILENTCODERSHOUR24
+Time in 24hours = SILENTCODERSHOUR12
+Minute of Time = SILENTCODERSMINUTE
+Seconds of Time = SILENTCODERSSECOND
+Day of Date = SILENTCODERSDAY
+Month of Date = SILENTCODERSMONTH
+Year of Date = SILENTCODERSYEAR
+-->
+
+Email Grabber = SILENTCODERSEMAIL
+e.g example@domain.com
+-->
+
+Base64 Email Grabber = EMAILURLSILENTC0DERS
+e.g example@domain.com = ZXhhbXBsZUBkb21haW4uY29t
+-->
+
+RandomStrings 5 = SILENTCODERSLIMAHURUF
+e.g oZD1j
+-->
+
+RandomStrings 50 = SILENTCODERSBANYAKHURUF
+e.g l13OnaYfHdAofnwtAEcYXX1ZcvM9dKmtoB6gTSso70wyTx6qom
+-->
+
+Email User Grabber = USER
+e.g example@domain.com = example
+-->
+
+Email Domain Grabber = DOMAIN
+e.g example@domain.com = domain.com
+-->
+
+Email Domain Name Grabber In CAPSLOCK = DOMC
+e.g example@domain.com = Domain
+-->
+
+Email Domain Name Grabber In LowerLOCK = DOMs
+e.g example@domain.com = domain
